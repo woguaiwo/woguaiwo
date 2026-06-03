@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Ling Kun Tse (Richie) 👋
+# Hi there, I'm Ling Kun (Richie) Tse 👋
 
-**Year 3 Computer Science & Engineering | Extended Major in AI**
+**Year 3 Undergraduate at HKUST | Computer Science & Engineering (Extended Major in AI)**
 
 [![GPA](https://img.shields.io/badge/GPA-3.57%20%2F%204.3-brightgreen?style=flat-square&logo=google-scholar)](#)
 [![Email](https://img.shields.io/badge/Email-Iktseab%40connect.ust.hk-blue?style=flat-square&logo=mail.ru)](#)
 [![Languages](https://img.shields.io/badge/Languages-Mandarin%2C%20English-orange?style=flat-square)](#)
 
-*My greatest interest is AI, and I am fascinated by any topics related to intelligence.*
+*I am an undergraduate student at the **Hong Kong University of Science and Technology (HKUST)**. My greatest interest is AI, and I am fascinated by any topics related to intelligence.*
 
 ---
 
@@ -64,6 +64,6 @@
 | **Core AI/ML** | COMP2211 (CNN, RNN, K-Means, Naive Bayes), EMIA4110 (Practical ML) |
 | **Systems & Logic** | COMP3711 (Algorithm Designing), COMP2011/2012 (Data Structure & C++) |
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=woguaiwo&color=blue&style=flat-square" alt="Profile Views" />
-</div>
+</div> -->
