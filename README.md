@@ -17,7 +17,7 @@
 My greatest passion lies in **AI Agents**, with my core interests rooted in two main pillars:
 
 * 🌐 **The Mechanisms of Collective Connection:** Just as the earliest perceptrons revealed the immense potential of cooperating neural nodes, I am eager to explore the emergent benefits and power of multi-agent cooperation and collective intelligence.
-* 🧠 **The Nature of Intelligence Itself:** I am profoundly fascinated by the fundamental aspects of cognition within AI systems, particularly focusing on memory, reasoning, and innovation capabilities.
+* 🧠 **The Nature of Intelligence Itself:** I am profoundly fascinated by the fundamental aspects of cognition within AI systems, particularly focusing on memory, reasoning, and innovation capabilities; I am also very interested to relate them with human cognition patterns.
 
 > **🎯 Ultimate Goal:** *To comprehensively accelerate the progress of human civilization through dedicated AI research and development.*
 
