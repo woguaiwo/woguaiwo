@@ -8,9 +8,13 @@
 [![Email](https://img.shields.io/badge/Email-Iktseab%40connect.ust.hk-blue?style=flat-square&logo=mail.ru)](#)
 [![Languages](https://img.shields.io/badge/Languages-Mandarin%2C%20English-orange?style=flat-square)](#)
 
-*I am an undergraduate student at the **Hong Kong University of Science and Technology (HKUST)**. My greatest passion lies in **AI Agents**, with my core interests rooted in two main pillars:*
+*I am an undergraduate student at the **Hong Kong University of Science and Technology (HKUST)**.*
 
 </div>
+
+<br>
+
+My greatest passion lies in **AI Agents**, with my core interests rooted in two main pillars:
 
 * 🌐 **The Mechanisms of Collective Connection:** Just as the earliest perceptrons revealed the immense potential of cooperating neural nodes, I am eager to explore the emergent benefits and power of multi-agent cooperation and collective intelligence.
 * 🧠 **The Nature of Intelligence Itself:** I am profoundly fascinated by the fundamental aspects of cognition within AI systems, particularly focusing on memory, reasoning, and innovation capabilities.
