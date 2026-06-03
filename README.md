@@ -76,3 +76,13 @@ My greatest passion lies in **AI Agents**, with my core interests rooted in two 
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=woguaiwo&color=blue&style=flat-square" alt="Profile Views" />
 </div> -->
+
+## 📫 Contact Me
+
+Feel free to reach out if you'd like to discuss AI, collaborate on projects, or just say hi!
+
+* 📧 **Email:** [lktseab@connect.ust.hk](mailto:lktseab@connect.ust.hk)
+* 📱 **Phone:** +852 53035473/ +86 17308792810
+* 🐙 **GitHub:** [@woguaiwo](https://github.com/woguaiwo)
+
+---
