@@ -65,5 +65,5 @@
 | **Systems & Logic** | COMP3711 (Algorithm Designing), COMP2011/2012 (Data Structure & C++) |
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=woguaiwo&color=blue&style=flat-square" alt="Profile Views" />
 </div>
