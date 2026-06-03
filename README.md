@@ -1,56 +1,69 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Richie+%F0%9F%91%8B;AI+for+Science+%7C+Virtual+Cells;Multi-modal+%7C+Computational+Biology" alt="Typing SVG" />
-Year 3 CSE @ HKUST · Extended Major in Artificial Intelligence
-📧 lktseab@connect.ust.hk · 📱 +852 5303 5473
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white" />
+
+# Hi there, I'm Ling Kun Tse (Richie) 👋
+
+**Year 3 Computer Science & Engineering | Extended Major in AI**
+
+[![GPA](https://img.shields.io/badge/GPA-3.57%20%2F%204.3-brightgreen?style=flat-square&logo=google-scholar)](#)
+[![Email](https://img.shields.io/badge/Email-Iktseab%40connect.ust.hk-blue?style=flat-square&logo=mail.ru)](#)
+[![Languages](https://img.shields.io/badge/Languages-Mandarin%2C%20English-orange?style=flat-square)](#)
+
+*My greatest interest is AI, and I am fascinated by any topics related to intelligence.*
+
+---
+
 </div>
-🔬 Research Focus
-I am fascinated by AI's potential to decode life itself. My work sits at the intersection of:
-🧬 Computational Biology — Gene perturbation response prediction, multi-omics integration
-🦠 Computational Cytology — Cell detection, segmentation & foundation models
-📡 Multi-modal Signal Synthesis — Video + IMU (right-wrist inertial) profiling
-🎷 Audio ML — Jazz music recognition & spectral feature engineering
-🧪 Selected Projects
-表格
-Project	Advisor	Description	Tech
-AI for Virtual Cells	Dr. Hao Chen	End-to-end AI agents integrating biological KB + multi-omics to predict cellular responses to gene perturbations	Multi-omics scRNA-seq Deep Learning
-Cytology Benchmark	Dr. Hao Chen	Trained & evaluated 8 DL models across 27 cytological datasets; explored 15+ hyperparameter configs	Cell Segmentation Object Detection Benchmarking
-Foundation Model for Cytology	Dr. Hao Chen	Dataset curation, visualization & data section for an upcoming publication	Foundation Model Data Curation Academic Writing
-Multi-User Profiling	Dr. Xiao Min Ou Yang	AI system profiling users from video + right-wrist IMU signals; responsible for data synthesis	IMU Synthesis Video Analysis Multi-modal Fusion
-Jazz Music Recognition	Self-driven	Applied multiple audio features on 78 full-length jazz tracks for genre recognition	Audio Features Spectral Analysis MIR
-🛠️ Technical Stack
-Languages & Core Libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
-Infrastructure & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-📚 Coursework
-COMP2211 — Naive Bayes, KNN, K-Means, MLP, CNN, RNN, Image Processing, Decision Tree, Basic RL
-Stanford CS229 — Supervised & Unsupervised Learning, Regularization, Deep Learning, RL
-EMIA4110 — Practical ML in Engineering, Business, Science & Art
-COMP3711 — Algorithm Design
-COMP2011 — Data Structures & C++
-📊 GitHub Stats
+
+## 🔬 Research & Projects
+
+### 🧬 AI for Virtual Cells
+> **Supervisor:** Dr. Hao Chen | **Role:** Project Lead
+* **Overview:** Developed AI agents integrating biological knowledge bases and multi-omics data to predict cellular responses to gene perturbations. This system significantly improves accuracy in computational biology modeling.
+* **Technical Focus:** Fine-tuned LLMs (e.g., Qwen 3.5) for tool-use and biological reasoning agents to handle CRISPR and scRNA-seq spatial-temporal data.
+
+### 🏃‍♂️ Multi-Users Profiling
+> **Supervisor:** Dr. Xiao Min Ou Yang | **Role:** Data Synthesis Lead
+* **Overview:** Developing an AI system for profiling user's video data and corresponding IMU signals from the right wrist.
+* **Technical Focus:** Implemented physics-based simulation for IMU noise modeling and utilized SMPL models combined with video rendering for robust human pose estimation.
+
+### 🔬 Cytology Foundation Models & Benchmarks
+> **Supervisor:** Dr. Hao Chen
+* **Foundation Model:** Responsible for preparing datasets, drawing statistical graphs, and writing the data section for an upcoming paper on Computational Cytology.
+* **Benchmark Project:** Trained and evaluated 8 deep learning models across 27 cytological datasets for cell detection and segmentation, exploring over 15 hyperparameter configurations to establish robust baselines.
+
+### 🎷 Jazz Music Recognition (Self-Exploration)
+* **Overview:** Built a recognition system by extracting and applying multiple audio features on 78 full-length Jazz music tracks.
+
+---
+
+## 🛠 Tech Stack & Skills
+
+**Programming Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Infrastructure & Tools:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+*Skilled in setting up research environments, using Linux servers for training tasks, and utilizing Git for version control.*
+
+---
+
+## 📚 Coursework Highlights
+
+| Category | Courses |
+| :--- | :--- |
+| **Advanced AI** | Stanford CS229 (Supervised/Unsupervised Learning, Deep Learning, RL) |
+| **Core AI/ML** | COMP2211 (CNN, RNN, K-Means, Naive Bayes), EMIA4110 (Practical ML) |
+| **Systems & Logic** | COMP3711 (Algorithm Designing), COMP2011/2012 (Data Structure & C++) |
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=woguaiwo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woguaiwo&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-🤝 Let's Connect
-<div align="center">
-mailto:lktseab@connect.ust.hk
-https://github.com/woguaiwo
-🌐 Languages: Mandarin (Native) · English (Professional)
-<img src="https://komarev.com/ghpvc/?username=woguaiwo&color=58A6FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
 </div>
