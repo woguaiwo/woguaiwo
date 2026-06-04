@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-Iktseab%40connect.ust.hk-blue?style=flat-square&logo=mail.ru)](#)
 [![Languages](https://img.shields.io/badge/Languages-Mandarin%2C%20English-orange?style=flat-square)](#)
 
-*I am an undergraduate student at the **Hong Kong University of Science and Technology (HKUST)**.*
 
 </div>
 
