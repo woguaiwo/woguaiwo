@@ -4,7 +4,7 @@
 
 **Year 3 Undergraduate at HKUST | Computer Science & Engineering (Extended Major in AI)**
 
-[![GPA](https://img.shields.io/badge/GPA-3.57%20%2F%204.3-brightgreen?style=flat-square&logo=google-scholar)](#)
+[![GPA](https://img.shields.io/badge/GPA-3.58%20%2F%204.3-brightgreen?style=flat-square&logo=google-scholar)](#)
 [![Email](https://img.shields.io/badge/Email-Iktseab%40connect.ust.hk-blue?style=flat-square&logo=mail.ru)](#)
 [![Languages](https://img.shields.io/badge/Languages-Mandarin%2C%20English-orange?style=flat-square)](#)
 
